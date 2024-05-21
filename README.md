@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil ✨
+### Bem vindo ao meu perfil ✨🧷
 
 - Meu nome é Edaurda Mitani
 - Estou utilizando o [Allura] (https://www.allura.com.br) nas aulas de robótica do ensina médio
@@ -9,4 +9,5 @@
 
 00001104019802sp@aluno.educacao.sp.gov.br
 
-![](https://media1.tenor.com/m/dZBSi-KOUKwAAAAd/miku-godzilla.gif)
+![](https://media1.tenor.com/m/BIAQzGVJwAgAAAAC/hatsune-miku-emo.gif)
+
