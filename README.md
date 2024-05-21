@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil ✨🧷
+### Bem vindo ao meu perfil ✨🧷🖤
 
 - Meu nome é Edaurda Mitani
 - Estou utilizando o [Allura] (https://www.allura.com.br) nas aulas de robótica do ensina médio
