@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil ✨🧷🖤
 
-- Meu nome é Edaurda Mitani
+- Meu nome é Eduarda Mitani
 - Estou utilizando o [Allura] (https://www.allura.com.br) nas aulas de robótica do ensino médio
 - Ainda estou aprendendo a liguagem de programação JavaScript
 
