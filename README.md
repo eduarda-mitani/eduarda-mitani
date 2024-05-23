@@ -5,7 +5,7 @@
 - Ainda estou aprendendo a liguagem de programação JavaScript
 
 
-## Como entrar em contato comigo 📫
+### Como entrar em contato comigo 📫
 
 00001104019802sp@aluno.educacao.sp.gov.br
 
