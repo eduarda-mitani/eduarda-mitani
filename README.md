@@ -2,7 +2,7 @@
 
 - Meu nome é Eduarda Mitani
 - Estou utilizando o [Allura] (https://www.allura.com.br) nas aulas de robótica do ensino médio
-- Ainda estou aprendendo a liguagem de programação JavaScript
+- Estou aprendendo a liguagem de programação JavaScript, HTML e CSS
 
 
 ### Como entrar em contato comigo 📫
